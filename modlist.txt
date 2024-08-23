@@ -1,3 +1,4 @@
+1.21.X-macrokeybinds-neoforge-1.3.1.jar
 advancementscreenshot-1.21.1-4.9.jar
 ae2wtlib-19.1.3-beta.jar
 AFKPeace1.21-6.3.0.jar
@@ -16,7 +17,7 @@ continuity-3.0.0-beta.5+1.21.jar
 CraftPresence-2.5.0+1.21-neoforge.jar
 CreativeCore_NEOFORGE_v2.12.7_mc1.21.1.jar
 enchantingcommands-1.21.1-3.4.jar
-Essential-fabric_1-21-1.jar
+essential_1-3-4_fabric_1-21-1.jar
 FabricBetterGrass-1.0.23+1.21.1.jar
 fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar
 forgified-fabric-api-0.102.0+2.0.12+1.21.1.jar
@@ -24,7 +25,10 @@ FpsReducer2-fabric-1.21-2.9.jar
 Gamma-Utils-1.9.20-mc1.21.jar
 guiclock-1.21.1-4.6.jar
 guicompass-1.21.1-4.8.jar
+halohud-4.3+1.21-fabric.jar
+ImmediatelyFast-NeoForge-1.2.20+1.21.1.jar
 ImmersiveUI-NEOFORGE-0.2.1.jar
+inventory-1.9.8.jar
 inventoryessentials-neoforge-1.21.1-21.1.1.jar
 inventoryhud.neoforged.1.21-3.4.24.jar
 InvMove-1.21-0.8.8-NeoForge.jar
@@ -32,13 +36,18 @@ iris-neoforge-1.8.0-snapshot+mc1.21-local.jar
 konkrete_neoforge_1.9.9_MC_1.21.jar
 kotlinforforge-5.4.0-all.jar
 Ksyxis-1.3.2.jar
+litematica-fabric-1.21.1-0.19.50.jar
 loadingbackgrounds-neoforge-1.21-1.6.0.jar
+malilib-fabric-1.21.1-0.21.0.jar
+mcmti-1.1.11.jar
+midnightlib-fabric-1.5.8.jar
 modmenu-11.0.1.jar
 mru-0.4.5+1.21.jar
 music_player-neoforge-1.21-2.7.1.272.jar
 MusicNotification-neoforge-mc1.21-2.1.0.jar
 neoforge-1.21-optionsprofiles-1.3.1.jar
 notenoughanimations-neoforge-1.7.4-mc1.21.jar
+paperdoll-neoforge-1.2.3-mc1.21.jar
 PresenceFootsteps-1.10.0+1.21.jar
 PuzzlesLib-v21.0.18-1.21-NeoForge.jar
 reeses_sodium_options-1.7.3+mc1.21.jar
@@ -53,5 +62,6 @@ Sounds-1.1.5+1.21.jar
 t_and_t-neoforge-fabric-1.13.2.jar
 u_team_core-neoforge-1.21-5.6.0.317.jar
 UniLib-1.0.1+1.21-neoforge.jar
+worldedit-mod-7.3.6.jar
 xplus-autofish-1.3.0-fabric-mc1.21.jar
 YetAnotherConfigLib-3.5.0+1.21-fabric.jar
